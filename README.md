@@ -1,2 +1,3 @@
-# My-Workshop-in-Data-Science
-I learning to up my skill in data science
+# My-Workshop-in-Data-Science 
+
+Hands on in outsource data 
