@@ -1,3 +1,3 @@
 # My-Workshop-in-Data-Science 
 
-Hands on in outsource data 
+Hands on by using outsource public data 
